@@ -1,8 +1,8 @@
 /*!
 Theme Name: mintheme
-Theme URI: http://mintheme.local
+Theme URI: https://mintheme.local
 Author: Mintheme Team
-Author URI: http://mintheme.local
+Author URI: https://mintheme.local
 Description: A simple wordpress theme
 Version: 1.0
 License: GNU General Public License v2 or later
@@ -949,3 +949,26 @@ object {
 /*--------------------------------------------------------------
 # Mintheme Styles
 --------------------------------------------------------------*/
+
+#page {
+	max-width: 1024px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
